@@ -41,5 +41,5 @@ résultat est enregistré dans la base de données.
 ### Links
 - [E-mail](m.elkhou@hotmail.com)
 - [Linkedin](https://www.linkedin.com/in/m-elkhou/)
-- [GitHub](https://github.com/m-elkhou)
-==> https://github.com/m-elkhou/Quiz-Generator.git
+- [GitHub](https://github.com/m-elkhou)<br/>
+=> https://github.com/m-elkhou/Quiz-Generator.git
