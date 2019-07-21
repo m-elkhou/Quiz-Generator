@@ -37,7 +37,7 @@ affichées les unes après les autres.
 Pour chaque question, un chronomètre décompte le temps autorisé pour répondre à la
 question. Une fois le quizz fini, le nombre de bonnes réponses de l'utilisateur s'affiche et le
 résultat est enregistré dans la base de données.
-
+***
 ### Links
 - [E-mail](m.elkhou@hotmail.com)
 - [Linkedin](https://www.linkedin.com/in/m-elkhou/)
