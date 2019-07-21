@@ -1,6 +1,4 @@
 # Générateur de Quizz
-==> https://github.com/m-elkhou/Quiz-Generator.git
-
  Le but de ce projet est la création d'un générateur de questionnaires de type quizz (réponse unique / réponses multiples) et de textes à trous en JEE
 
 Ce projet comporte deux parties
@@ -40,10 +38,8 @@ Pour chaque question, un chronomètre décompte le temps autorisé pour répondr
 question. Une fois le quizz fini, le nombre de bonnes réponses de l'utilisateur s'affiche et le
 résultat est enregistré dans la base de données.
 
-CopyRight:
-
-╔╦╗┌─┐┬ ┬┌─┐┌┬┐┌┬┐┌─┐┌┬┐  ╔═╗╦    ╦╔═╦ ╦╔═╗╦ ╦
-║║║│ │├─┤├─┤││││││├┤  ││  ║╣ ║    ╠╩╗╠═╣║ ║║ ║
-╩ ╩└─┘┴ ┴┴ ┴┴ ┴┴ ┴└─┘─┴┘  ╚═╝╩═╝  ╩ ╩╩ ╩╚═╝╚═╝
-
-m.elkhou@hotmail.com
+### Links
+- [E-mail](m.elkhou@hotmail.com)
+- [Linkedin](https://www.linkedin.com/in/m-elkhou/)
+- [GitHub](https://github.com/m-elkhou)
+==> https://github.com/m-elkhou/Quiz-Generator.git
